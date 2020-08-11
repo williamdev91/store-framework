@@ -58,7 +58,7 @@
     }
   },
   
-  "flex-layout.row":{
+  "flex-layout.col":{
     "children": [
       "image#electronics",
       "image#major-appliance"
